@@ -1,0 +1,2 @@
+# Leck
+Discord Bot.
